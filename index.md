@@ -24,7 +24,7 @@
 
 
 #### ["Iris Dataset "Analysis using Machine learning techniques](https://www.linkedin.com/pulse/iris-dataset-analysis-using-machine-learning-techniques-pramod-sahu-g3kgf/)
-[<img src="images/iris-dataset.png"/>](https://www.linkedin.com/pulse/iris-dataset-analysis-using-machine-learning-techniques-pramod-sahu-g3kgf/)
+[<img src="images/iris-dataset.png.png"/>](https://www.linkedin.com/pulse/iris-dataset-analysis-using-machine-learning-techniques-pramod-sahu-g3kgf/)
 In this article, we embark on a journey into the Iris dataset, a classic in the field of machine learning. The dataset comprises 150 samples of iris flowers, each characterized by four features: sepal length, sepal width, petal length, and petal width. Our mission is to not only understand the data but also build and optimize a machine learning model for accurate classification.
 
 
