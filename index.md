@@ -29,7 +29,12 @@ In this article, we embark on a journey into the Iris dataset, a classic in the 
 
 
 ---
+#### ["Revolutionizing Decision-Making: Unleashing the Power of Real-Time Data with Tableau & MySQL](https://www.linkedin.com/pulse/revolutionizing-decision-making-unleashing-power-real-time-sahu-u5clf/)
+[<img src="images/Atliq.png"/>](https://www.linkedin.com/pulse/revolutionizing-decision-making-unleashing-power-real-time-sahu-u5clf/)
+Embark on a data-driven journey with Atliq Computer as we revolutionize sales insights using Tableau. Dive into our transformative approach, revealing real-time data benefits and strategic business improvements. Explore the future of sales innovation and join us at the forefront of the data-driven revolution
 
+
+---
 
 
 
