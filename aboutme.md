@@ -79,4 +79,4 @@ It includes projects using different skills like 𝐄𝐱𝐜𝐞𝐥, 𝐓𝐚�
 
 
 
-<p align="center"><a href="https://madeehaumar.github.io/"><img src="images/Home icon 1.png?raw=true"/>
+<p align="center"><a href="https://Sahu337778.github.io/"><img src="images/Home icon 1.png?raw=true"/>
