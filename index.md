@@ -36,7 +36,7 @@ Embark on a data-driven journey with Atliq Computer as we revolutionize sales in
 
 ---
 #### ["Building an Employee Management System with Python, SQL and Tkinter: A Step-by-Step Guide](https://www.linkedin.com/pulse/building-employee-management-system-python-sql-tkinter-pramod-sahu-dqogf%3FtrackingId=ofB48vQOQa6tcxOYTdriGQ%253D%253D/?trackingId=ofB48vQOQa6tcxOYTdriGQ%3D%3D/)
-[<img src="Employee_Man_Python.png"/>](https://www.linkedin.com/pulse/building-employee-management-system-python-sql-tkinter-pramod-sahu-dqogf%3FtrackingId=ofB48vQOQa6tcxOYTdriGQ%253D%253D/?trackingId=ofB48vQOQa6tcxOYTdriGQ%3D%3D/)
+[<img src="R.png"/>](https://www.linkedin.com/pulse/building-employee-management-system-python-sql-tkinter-pramod-sahu-dqogf%3FtrackingId=ofB48vQOQa6tcxOYTdriGQ%253D%253D/?trackingId=ofB48vQOQa6tcxOYTdriGQ%3D%3D/)
 The project is an Employee Management System featuring a login page for user authentication. It allows users to add, search, update, and delete employee records, as well as display all employees and compute salaries, all with a graphical user interface.
 
 
