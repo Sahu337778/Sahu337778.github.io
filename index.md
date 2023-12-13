@@ -40,6 +40,11 @@ Embark on a data-driven journey with Atliq Computer as we revolutionize sales in
  
 The project is an Employee Management System featuring a login page for user authentication. It allows users to add, search, update, and delete employee records, as well as display all employees and compute salaries, all with a graphical user interface.
 
+---
+#### ["Bike Sales Dataset and Dashboard Analysis: An Excel-Powered Exploration": A Step-by-Step Guide](https://www.linkedin.com/pulse/bike-sales-dataset-dashboard-analysis-excel-powered-exploration-sahu-4fnqf/)
+[<img src="images/Bike.jpg"/>](https://www.linkedin.com/pulse/bike-sales-dataset-dashboard-analysis-excel-powered-exploration-sahu-4fnqf/)
+ 
+Bike Sales Dataset and Dashboard Analysis" project leverages Excel's analytical capabilities to unveil critical insights into customer behavior, presenting findings through meticulously crafted visualizations. From uncovering correlations between income and bike purchases to exploring commute distance preferences and age-related patterns, the project culminates in an interactive "Bike Sales Dashboard," providing decision-makers with actionable insights for strategic business decisions in the dynamic bike sales landscape. Explore the comprehensive analysis and dashboard for a detailed exploration of the dataset.
 
 
 ---
